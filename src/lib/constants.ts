@@ -18,7 +18,7 @@ export const SOCIAL_LINKS = [
   {
     id: "tiktok",
     label: "TikTok",
-    href: "https://www.tiktok.com/@activeflowone",
+    href: "https://www.tiktok.com/@activeflowone", 
   },
   {
     id: "telegram",
